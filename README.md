@@ -17,110 +17,26 @@ I'm a passionate Machine Learning and Computer Vision enthusiast who enjoys buil
 - 💼 Open to Internship and Full-Time Opportunities
 
 ---
-
 # 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,git,github,vscode,html,css" />
+</p>
 
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Machine Learning
-
-- Scikit-learn
-- TensorFlow
-- Keras
-- LightGBM
-- YOLOv8
-
-### Computer Vision
-
-- OpenCV
-- Ultralytics YOLO
-- Pillow
-
-### Data Science
-
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
-### Deployment
-
-- Streamlit
-- GitHub
-- Git LFS
-- Vercel
+**Libraries & Frameworks:**  
+Scikit-learn • Keras • LightGBM • YOLOv8 • NumPy • Pandas • Matplotlib • Seaborn • Streamlit
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚦 ML-Powered Traffic Violation Detection
+- 🚦 Traffic Violation Detection *(YOLOv8, OpenCV, Streamlit)*
+- 🧠 Brain Tumor Detection *(TensorFlow, InceptionV3, Streamlit)*
+- 💳 Credit Card Fraud Detection *(LightGBM, Streamlit)*
+- 👨‍💼 Employee Attrition Prediction *(Scikit-learn, Streamlit)*
+- 🏠 Boston House Price Prediction *(Scikit-learn, Streamlit)*
 
-AI-powered traffic violation detection using YOLOv8 and Streamlit.
-
-**Tech Stack**
-
-- YOLOv8
-- OpenCV
-- Streamlit
-- Python
-
-🔗 Repository:
-https://github.com/Akarsh5830/Traffic-Violation-Detection
-
----
-
-## 🧠 Brain Tumor Detection
-
-Brain tumor classification from MRI images using InceptionV3.
-
-**Tech Stack**
-
-- TensorFlow
-- InceptionV3
-- Streamlit
-
-🔗 Repository:
-https://github.com/Akarsh5830/BrainTumor
-
----
-
-## 💳 Credit Card Fraud Detection
-
-Fraud detection using LightGBM with an interactive Streamlit application.
-
-**Tech Stack**
-
-- LightGBM
-- Scikit-learn
-- Streamlit
-
-🔗 Repository:
-https://github.com/Akarsh5830/CreditCardFraudDetection
-
----
-
-## 👨‍💼 Employee Attrition Prediction
-
-Machine learning model to predict employee attrition.
-
-🔗 Repository:
-https://github.com/Akarsh5830/Employee-Attrition-Prediction
-
----
-
-## 🏠 Boston House Price Prediction
-
-Regression model for predicting house prices.
-
-🔗 Repository:
-https://github.com/Akarsh5830/Boston-House-Price-Prediction
+🔗 **View all projects:** https://github.com/Akarsh5830?tab=repositories
 
 ---
 
