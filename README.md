@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Akarsh Yadav</h1>
+# Hi there, I'm Akarsh Yadav 👋
 
-<h3 align="center">B.Tech Computer Science (Artificial Intelligence) | Machine Learning & Computer Vision Enthusiast</h3>
+### 💻 B.Tech Computer Science (Artificial Intelligence)
 
-<p align="center">
-I'm passionate about building AI-powered applications using Machine Learning, Deep Learning, Computer Vision, and Data Science. I enjoy solving real-world problems with Python and continuously learning new technologies.
-</p>
+I'm a passionate Machine Learning and Computer Vision enthusiast who enjoys building AI-powered applications using Python, Deep Learning, and Data Science.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (Artificial Intelligence)
-- 💻 Python Developer
+- 🎓 B.Tech Computer Science (AI)
+- 🐍 Python Developer
 - 🤖 Machine Learning Enthusiast
 - 👁️ Computer Vision Developer
 - 📊 Data Science Learner
-- 🌱 Currently learning **Data Structures & Algorithms, SQL, System Design**
-- 💼 Looking for **Software Engineering, Machine Learning and AI opportunities**
+- 🌱 Currently improving my DSA, SQL, OOP and ML skills
+- 💼 Open to Internship and Full-Time Opportunities
 
 ---
 
@@ -24,39 +22,105 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql" />
-</p>
+- Python
+- SQL
+- HTML
+- CSS
+- JavaScript
 
-### Machine Learning & AI
+### Machine Learning
 
 - Scikit-learn
 - TensorFlow
 - Keras
 - LightGBM
 - YOLOv8
+
+### Computer Vision
+
 - OpenCV
+- Ultralytics YOLO
+- Pillow
+
+### Data Science
+
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
-### Tools
+### Deployment
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit" />
-</p>
+- Streamlit
+- GitHub
+- Git LFS
+- Vercel
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🚦 **Traffic Violation Detection** | AI-powered traffic violation detection using surveillance images and videos | YOLOv8, OpenCV, Streamlit |
-| 🧠 **Brain Tumor Detection** | MRI brain tumor classification using transfer learning | TensorFlow, InceptionV3 |
-| 💳 **Credit Card Fraud Detection** | Fraud detection using LightGBM with an interactive web application | LightGBM, Streamlit |
-| 👨‍💼 **Employee Attrition Prediction** | Predict employee attrition using machine learning | Scikit-learn |
-| 🏠 **Boston House Price Prediction** | House price prediction using regression models | Scikit-learn |
+## 🚦 ML-Powered Traffic Violation Detection
+
+AI-powered traffic violation detection using YOLOv8 and Streamlit.
+
+**Tech Stack**
+
+- YOLOv8
+- OpenCV
+- Streamlit
+- Python
+
+🔗 Repository:
+https://github.com/Akarsh5830/Traffic-Violation-Detection
+
+---
+
+## 🧠 Brain Tumor Detection
+
+Brain tumor classification from MRI images using InceptionV3.
+
+**Tech Stack**
+
+- TensorFlow
+- InceptionV3
+- Streamlit
+
+🔗 Repository:
+https://github.com/Akarsh5830/BrainTumor
+
+---
+
+## 💳 Credit Card Fraud Detection
+
+Fraud detection using LightGBM with an interactive Streamlit application.
+
+**Tech Stack**
+
+- LightGBM
+- Scikit-learn
+- Streamlit
+
+🔗 Repository:
+https://github.com/Akarsh5830/CreditCardFraudDetection
+
+---
+
+## 👨‍💼 Employee Attrition Prediction
+
+Machine learning model to predict employee attrition.
+
+🔗 Repository:
+https://github.com/Akarsh5830/Employee-Attrition-Prediction
+
+---
+
+## 🏠 Boston House Price Prediction
+
+Regression model for predicting house prices.
+
+🔗 Repository:
+https://github.com/Akarsh5830/Boston-House-Price-Prediction
 
 ---
 
@@ -69,50 +133,22 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akarsh5830&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh5830&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Akarsh5830&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 🌐 Portfolio: *(Add your portfolio URL)*
-- 📧 Email: *(Add your professional email)*
+- GitHub: https://github.com/Akarsh5830
+- Portfolio: https://akarshportfolio58.vercel.app
 
 ---
 
-# 💻 Coding Profiles
+# 💡 Interests
 
-- LeetCode: *(Add your profile)*
-- HackerRank: *(Add your profile)*
-- GeeksforGeeks: *(Optional)*
-
----
-
-## 🌱 Currently Working On
-
-- Machine Learning Projects
-- Computer Vision Applications
-- Data Structures & Algorithms
-- SQL
-- System Design
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Artificial Intelligence
+- Data Science
+- Python Development
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-*"Learning, Building, and Growing one project at a time."*
+⭐ Thank you for visiting my GitHub profile!
