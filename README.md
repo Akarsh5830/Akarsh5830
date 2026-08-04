@@ -89,12 +89,19 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/akarsh-yadav-b3220b2bb
-- 🌐 Portfolio: https://akarshportfolio58.vercel.app/
-- 📧 Email: akarsh5830@gmail.com
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 🌐 Portfolio: *(Add your portfolio URL)*
+- 📧 Email: *(Add your professional email)*
 
 ---
 
+# 💻 Coding Profiles
+
+- LeetCode: *(Add your profile)*
+- HackerRank: *(Add your profile)*
+- GeeksforGeeks: *(Optional)*
+
+---
 
 ## 🌱 Currently Working On
 
